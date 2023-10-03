@@ -147,3 +147,25 @@ Very dark cyan: hsl(179, 100%, 13%) */
         padding: 40px;
     }
   }
+
+  .button:hover{
+    border-color: var(--lightGray);
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+  }
+  .b1:hover{
+    background-color: var(--orange);
+    color: var(--lightGray);
+  }
+
+  .b2:hover{
+    background-color: var(--cyan);
+    color: var(--lightGray);
+  }
+
+  .b3:hover{
+    background-color: var(--darkCyan);
+    color: var(--lightGray);
+    
+  }
