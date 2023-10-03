@@ -85,7 +85,7 @@ Very dark cyan: hsl(179, 100%, 13%) */
 
   @media (width <=600px){
     .content{
-        padding: 100px;
+        padding: 50px;
         box-sizing: border-box;
         display: flex;
         flex-direction: column;
